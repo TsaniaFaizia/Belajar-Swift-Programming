@@ -1,1 +1,1 @@
-# Belajar-Swift-Programming
+Swift adalah bahasa yang cepat dan efisien yang menyediakan laporan secara real-time dan dapat digabungkan dengan mulus ke dalam kode Objective-C yang ada. Jadi, pengembang dapat menulis kode yang lebih aman dan andal, hemat waktu, dan bahkan menciptakan pengalaman aplikasi yang lebih kaya.
